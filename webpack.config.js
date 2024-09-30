@@ -34,6 +34,7 @@ const cssThemes = {
     "theme-dark": "./node_modules/matrix-react-sdk/res/themes/dark/css/dark.pcss",
     "theme-light-custom": "./node_modules/matrix-react-sdk/res/themes/light-custom/css/light-custom.pcss",
     "theme-dark-custom": "./node_modules/matrix-react-sdk/res/themes/dark-custom/css/dark-custom.pcss",
+    "sociail": "./node_modules/matrix-react-sdk/res/themes/sociail/css/sociail.pcss",
 };
 
 function getActiveThemes() {
